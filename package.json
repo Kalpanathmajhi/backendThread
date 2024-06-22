@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@apollo/server": "^4.10.4",
+    "@prisma/client": "^5.15.1",
     "express": "^4.19.2",
     "graphql": "^16.8.2"
   }
