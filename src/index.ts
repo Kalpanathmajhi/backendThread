@@ -35,7 +35,7 @@ async function init() {
                         password,
                         firstName,
                         lastName,
-                        salt: "random_salt"
+                        salt: "random_salt_generated"
                        },
                     });
                     return true
